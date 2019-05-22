@@ -11,3 +11,16 @@ C:\Users\j_ren\source\repos\ReservaMysqlConsole\ReservaMysqlConsole\obj\Debug\Re
 C:\Users\j_ren\source\repos\ReservaMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.csproj.CopyComplete
 C:\Users\j_ren\source\repos\ReservaMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.exe
 C:\Users\j_ren\source\repos\ReservaMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.pdb
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\ReservaMysqlConsole.exe.config
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\ReservaMysqlConsole.exe
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\ReservaMysqlConsole.pdb
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\Google.Protobuf.dll
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\MySql.Data.dll
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\Google.Protobuf.xml
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\bin\Debug\MySql.Data.xml
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.csprojAssemblyReference.cache
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.csproj.CoreCompileInputs.cache
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.csproj.CopyComplete
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.exe
+C:\Users\j_ren\source\repos\ReservasMysqlConsole\ReservaMysqlConsole\obj\Debug\ReservaMysqlConsole.pdb

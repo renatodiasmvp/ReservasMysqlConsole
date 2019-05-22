@@ -10,12 +10,23 @@ namespace ReservaMysqlConsole
     {
         static void Main(string[] args)
         {
+            string dataEnt = "";
+            string dataSai = "";
+            string valorTotal = "";
+            Console.WriteLine("Reservas");
+            Console.WriteLine("=========================");
+            Console.WriteLine("Digite a Data de Entrada:");
+            dataEnt = Console.ReadLine();
+            Console.WriteLine("Digite a Data de Saída:");
+            dataSai = Console.ReadLine();
+            Console.WriteLine("Digite o Valor Total:");
+            valorTotal = Console.ReadLine();
 
-            CS_Reserva reserva = new CS_Reserva(0, DateTime.Parse("21/05/2019"), DateTime.Parse("25/05/2019"), 210.75);
+            CS_Reserva reserva = new CS_Reserva(0, DateTime.Parse(dataEnt), DateTime.Parse(dataSai), Double.Parse(valorTotal));
 
-            //reserva.Incluir();
+            reserva.Incluir();
 
-            var dados = reserva.Listar(DateTime.Parse("21/05/2019"), DateTime.Parse("25/05/2019"), 210.75);
+            var dados = reserva.Listar(DateTime.Parse(dataEnt), DateTime.Parse(dataSai), Double.Parse(valorTotal));
 
             while (dados.Read())
             {
